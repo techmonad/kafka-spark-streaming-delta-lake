@@ -1,1 +1,1 @@
-# kafka-spark-streaming-delta-lake
+# kafka-to-delta-lake-by-spark-streaming

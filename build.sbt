@@ -1,4 +1,4 @@
-name := "kafka-spark-streaming-delta-lake"
+name := "kafka-to-delta-lake-by-spark-streaming"
 
 version := "1.0"
 
